@@ -1,70 +1,193 @@
-# Getting Started with Create React App
+# hello-react-front-end
+<a name="hello-react-front-end"></a>
+###hello-react-front-end
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
 
-## Available Scripts
+  <h3><b>hello-react-front-end</b></h3>
 
-In the project directory, you can run:
+</div>
 
-### `npm start`
+<!-- bookstore -->
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# 📗 Table of Contents
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [hello-react-front-end](#hello-react-front-end)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 hello-react-front-end ](#-hello-react-front-end-)
+  - [🛠 Built With ](#-built-with-)
+    - [Git ](#git-)
+    - [Redux ](#redux-)
+    - [React ](#react-)
+    - [Routers ](#routers-)
+    - [CSS ](#css-)
+    - [Key Features ](#key-features-)
+  - [Video Description of the project  Video will be added soon ](#video-description-of-the-project--video-will-be-added-soon-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+    - [Deployment](#deployment)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
-### `npm test`
+<!-- PROJECT DESCRIPTION -->
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# 📖 hello-react-front-end <a name="about-project"></a>
 
-### `npm run build`
+-This is an application build using react redux
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🛠 Built With <a name="built-with"></a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- This project was built using the following materials and languages below;
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Git <a name="Git"></a>
+### Redux <a name="Redux"></a>
+### React <a name="React"></a>
+### Routers <a name="Routers"></a>
+### CSS <a name="CSS"></a> 
 
-### `npm run eject`
+<details>
+  <summary>Client</summary>
+   #Client
+</details>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://github.com/ikoote1/hello-react-front-end">Repo</a></li>
+  </ul>
+</details>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<!-- Features -->
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Key Features <a name="key-features"></a>
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- **Description**
+  >This contains the;
+  -   Offers greetings
+  -   
+- **Contacts**
+  - ikootepreim@gmail.com
+  - [LinkedIn](https://www.linkedin.com/in/ikoote-rasuli-479545246/) 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Video Description of the project <a name="Video" href="#" > Video will be added soon </a>
 
-### Code Splitting
+<!-- LIVE DEMO -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🚀 Live Demo <a name="Preim Live"></a>
 
-### Analyzing the Bundle Size
+- Project will be deployed soon.
+- [Link to back-end](https://github.com/ikoote1/hello-rails-back-end/pull/1)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Making a Progressive Web App
+<!-- GETTING STARTED -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 💻 Getting Started <a name="getting-started"></a>
+-**You are allowed to clone this project**
 
-### Advanced Configuration
+To get a local copy up and running, follow these steps.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Prerequisites
+
+In order to run this project you need:
+
+>To Clone this [repository](https://github.com/ikoote1/hello-react-front-end.git) to your desired folder:
+
+### Setup
+
+>Clone this [repository](https://github.com/ikoote1/hello-react-front-end.git) to your desired folder.
+
+### Install
+
+Install this project with:
+
+### Usage
+  
+> Clone the project from github
+
+### Run tests
+
+To run tests, run the following steps:
+
+> Check the live demo and check on how the project work.
+> Clone and test for linter errors.
+> Check the dynamics.
+> Run npm start
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+-  This project was deployed soon.
 
-### `npm run build` fails to minify
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="Ikoote Rasuli"></a>
+
+> IKOOTE RASULI
+
+👤 **Author1**
+
+- Email: [@githubhandle](ikootepreim@gmail.com)
+- Twitter: [@twitterhandle](https://twitter.com/ikoote1)
+- LinkedIn:[@LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B4xL98PtKS7SDj%2Fe93TEh9w%3D%3D)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+>In the feature am planning;
+
+- [ ] **Add some designing**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project , I will be very grad to help you with any issue.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Microverse and its team.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+[]**hello-react-front-end** (https://github.com/ikoote1/hello-react-front-end/pull/2)
+
